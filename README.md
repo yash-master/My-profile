@@ -117,7 +117,7 @@ Used car sales Analysis (https://github.com/yash-master/Used-car-analysis )
 ________________________________________
 CERTIFICATIONS
 
-SQL Advanced | Hacker Rank | 2025
+[SQL Advanced]([url](https://www.hackerrank.com/certificates/4f8d777e9acc)) | Hacker Rank | 2025
 
 Snowflake for Data | Snowflake (Coursera) | 2025
 
