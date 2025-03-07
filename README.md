@@ -1,10 +1,14 @@
-## My-profile
+## Yash Master | Data Engineer
+#### 2033924677 | NJ | masteryash522@gmail.com  
 
-
-#### Yash Master | Data Engineer
-
-#### 2033924677 | NJ | masteryash522@gmail.com | LinkedIn | GitHub 
-
+### Table of Contents
+* [SUMMARY](https://github.com/yash-master/My-profile/blob/main/README.md#summary)
+* [KEY ACHIEVEMENTS](https://github.com/yash-master/My-profile/blob/main/README.md#key-achievements)
+* [SKILLS](https://github.com/yash-master/My-profile/blob/main/README.md#skills)
+* [PROFESSIONAL EXPERIENCE](https://github.com/yash-master/My-profile/blob/main/README.md#professional-experience)
+* [EDUCATION](https://github.com/yash-master/My-profile/blob/main/README.md#education)
+* [PROJECTS](https://github.com/yash-master/My-profile/blob/main/README.md#projects)
+* [CERTIFICATIONS](https://github.com/yash-master/My-profile/blob/main/README.md#certifications)
 ________________________________________
 ### SUMMARY
 
