@@ -5,9 +5,11 @@ Yash Master | Data Engineer
 2033924677 | NJ | masteryash522@gmail.com | LinkedIn | GitHub 
 ________________________________________
 SUMMARY
+
 5+ years of total experience with the current role as a Data Engineer, specializing in designing and optimizing scalable, high-performance data solutions. Proficient in building ETL pipelines, real-time data streaming, and big data processing using SQL, Python, Spark, and cloud platforms (AWS, Azure). Skilled at collaborating with cross-functional teams to transform business requirements into robust technical solutions that enable data-driven decision-making. Passionate about automation, performance optimization, and developing innovative strategies to tackle complex data challenges.
 ________________________________________
 SKILLS
+
 Programming Languages: Python, Scala, Java, Shell scripting, SQL, Pyspark, JSON, Bash.
 Cloud Infrastructure: AWS Cloud (S3, Lambda, Step functions, Athena, EMR, EC2, Redshift, RDS, Glue), Azure Cloud (Azure Data Factory (ADF), Data Lake, Pipelines, Blob storage, DevOps), GCP Cloud (BigQuery, DataProc, Cloud Storage, Dataflow).
 Big data Tools: Databricks, Hadoop, Spark/PySpark, SparkSQL, Spark streaming, Hive, HBase, Airflow, MapReduce, HDFS, Sqoop, Flume, Kafka, Flink, YARN, Pig, DBT.
@@ -50,6 +52,7 @@ Elk Products, NC | March 2020 - February 2022 | Software Engineer
 
 ________________________________________
 EDUCATION
+
 Master of Business Administration (MBA) | University of the Cumberlands, Williamsburg, KY | 2024
 Master’s in Electrical & Computer Engineering | University of New Haven, West Haven, CT | 2020
 Bachelor’s in Electrical & Computer Engineering | Pandit Deendayal Energy University, Gujarat, In | 2017
