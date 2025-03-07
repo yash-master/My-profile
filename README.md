@@ -133,10 +133,10 @@ ________________________________________
 
 [SQL Advanced](https://www.hackerrank.com/certificates/4f8d777e9acc) | Hacker Rank | 2025
 
-Snowflake for Data | Snowflake (Coursera) | 2025
+[Snowflake for Data](https://www.coursera.org/account/accomplishments/verify/LXH7PLFE2ELK) | Snowflake | 2025
 
-Data Visualization with Tableau | Tableau (Coursera)  | 2025
+[Data Visualization with Tableau](https://www.coursera.org/account/accomplishments/verify/7GQ0WAT7L4CB) | Tableau | 2025
 
-Data Analysis with Python | IBM (Coursera)  | 2025
+[Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/1AN3PBB6IVR4) | IBM | 2025
 
-Google AI Essentials | Google (Coursera) | 2025
+[Google AI Essentials](https://www.coursera.org/account/accomplishments/verify/ML9XR9RH14PB) | Google | 2025
