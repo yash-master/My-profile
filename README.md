@@ -6,13 +6,13 @@ Yash Master | Data Engineer
 2033924677 | NJ | masteryash522@gmail.com | LinkedIn | GitHub 
 
 ________________________________________
-SUMMARY
+## SUMMARY
 
 5+ years of total experience with the current role as a Data Engineer, specializing in designing and optimizing scalable, high-performance data solutions. Proficient in building ETL pipelines, real-time data streaming, and big data processing using SQL, Python, Spark, and cloud platforms (AWS, Azure). Skilled at collaborating with cross-functional teams to transform business requirements into robust technical solutions that enable data-driven decision-making. Passionate about automation, performance optimization, and developing innovative strategies to tackle complex data challenges.
 
 
 ________________________________________
-KEY ACHIEVEMENTS
+## KEY ACHIEVEMENTS
 
 •	Successfully automated ETL pipelines across AWS and Azure, reducing manual intervention by 50% and improving data accuracy.
 
@@ -26,7 +26,7 @@ KEY ACHIEVEMENTS
 
 
 ________________________________________
-SKILLS
+## SKILLS
 
 Programming Languages: Python, Scala, Java, Shell scripting, SQL, Pyspark, JSON, Bash.
 
@@ -50,9 +50,9 @@ Soft Skills: Communication, Analytical Thinking, Problem-Solving Abilities, Inte
 
 
 ________________________________________
-PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
-Disney, NJ | March 2023 – March 2025 | Data Engineer
+### Disney, NJ | March 2023 – March 2025 | Data Engineer
 
 •	Partner with business teams to assess customer needs and translate strategic roadmaps into actionable data solutions.
 
@@ -71,7 +71,7 @@ Disney, NJ | March 2023 – March 2025 | Data Engineer
 •	Configured PagerDuty to monitor production environments, ensuring rapid issue resolution and minimal downtime.
 
 
-Accelerant, NJ | Feb 2022 – March 2023 | Data Engineer
+### Accelerant, NJ | Feb 2022 – March 2023 | Data Engineer
 
 •	Constructed Azure Data Factory (ADF) pipelines using Linked Services, Datasets, and Pipelines to orchestrate ETL processes from diverse sources.
 
@@ -88,7 +88,7 @@ Accelerant, NJ | Feb 2022 – March 2023 | Data Engineer
 •	Automated CI/CD pipelines in Azure DevOps, leveraging Azure Repos for version control and Azure Boards for project management.
 
 
-Elk Products, NC | March 2020 - February 2022 | Software Engineer
+### Elk Products, NC | March 2020 - February 2022 | Software Engineer
 
 •	Engineered embedded software applications using C/C++, Python, and Java for control systems, ensuring optimal performance and reliability.
 
@@ -102,7 +102,7 @@ Elk Products, NC | March 2020 - February 2022 | Software Engineer
 
 
 ________________________________________
-EDUCATION
+## EDUCATION
 
 Master of Business Administration (MBA) | University of the Cumberlands, Williamsburg, KY | 2024
 
@@ -112,16 +112,16 @@ Bachelor’s in Electrical & Computer Engineering | Pandit Deendayal Energy Univ
 
 
 ________________________________________
-PROJECTS
+## PROJECTS
 
-Airbnb prediction analysis (https://github.com/yash-master/Airbnb-prediction-analysis )
+### Airbnb prediction analysis (https://github.com/yash-master/Airbnb-prediction-analysis )
 
 •	Created a prediction model for Airbnb to predict optimal price for an Airbnb using different parameters. 
 
 •	Employed python to perform Data Cleaning, Data Exploratory Analysis, Distribution plots, Residual Plots, Feature Selection, Regression, Decision Making and finally conduct regression analysis and successfully created a model with 97% accuracy. 
 
 
-Used car sales Analysis (https://github.com/yash-master/Used-car-analysis )
+### Used car sales Analysis (https://github.com/yash-master/Used-car-analysis )
 
 •	Conducted in-depth used car sales data analysis to identify key market trends and pricing patterns.
 
@@ -129,9 +129,9 @@ Used car sales Analysis (https://github.com/yash-master/Used-car-analysis )
 
 
 ________________________________________
-CERTIFICATIONS
+## CERTIFICATIONS
 
-[SQL Advanced]([url](https://www.hackerrank.com/certificates/4f8d777e9acc)) | Hacker Rank | 2025
+[SQL Advanced](https://www.hackerrank.com/certificates/4f8d777e9acc) | Hacker Rank | 2025
 
 Snowflake for Data | Snowflake (Coursera) | 2025
 
