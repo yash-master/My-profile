@@ -12,6 +12,20 @@ SUMMARY
 
 
 ________________________________________
+KEY ACHIEVEMENTS
+
+•	Successfully automated ETL pipelines across AWS and Azure, reducing manual intervention by 50% and improving data accuracy.
+
+•	Implemented PagerDuty monitoring to enhance system reliability, reducing incident resolution time by 35%.
+
+•	Successfully removed kids' profiles across Disney+ and Hulu, ensuring full compliance with data governance and legal guidelines. 
+
+•	Spearheaded the migration of Hulu FeatureMart from on-prem to AWS Cloud, designing and implementing an end-to-end pipeline from Snowflake to S3 using AWS Databricks. Optimized infrastructure performance, scalability, and cost-efficiency by leveraging cloud solutions, ensuring transition with minimal downtime.
+
+•	Optimized Databricks Spark clusters, reducing computational costs by 30% while enhancing processing speed.
+
+
+________________________________________
 SKILLS
 
 Programming Languages: Python, Scala, Java, Shell scripting, SQL, Pyspark, JSON, Bash.
